@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Корзина</string>
+    <string name="product_added">Товар успешно добавлен в корзину!</string>
+    <string name="textSuccessPurchase">Спасибо за покупку!</string>
+    <string name="textBtnBuy">Купить</string>
+    <string name="textProductName">Название товара</string>
+    <string name="textProductDescription">Описание товара</string>
+    <string name="textProductPrice">Цена</string>
+    <string name="textQuantityOfAllProducts">Количество товаров: 8</string>
+    <string name="textShoesShopping">Магазин баскетбольной обуви</string>
+    <string name="textProductQuantity">Количество</string>
+    <string name="textBtnAddToCart">Добавить в корзину</string>
+    <string-array name="quantity">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>

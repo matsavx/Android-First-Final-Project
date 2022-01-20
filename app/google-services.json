@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431765054840",
+    "project_id": "matsavx-firstfinal",
+    "storage_bucket": "matsavx-firstfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431765054840:android:eb3f1db05054d645edd48d",
+        "android_client_info": {
+          "package_name": "com.matsavx.firstfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431765054840-l2mkj53ehkhjtegf0670huibudagf2cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu2f-_4fxid8DglmIWl5Otj4Fpx5rJDXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431765054840-l2mkj53ehkhjtegf0670huibudagf2cr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
